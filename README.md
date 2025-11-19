@@ -6,7 +6,7 @@
 
 ## 🖥 Frontend Setup
 
-    cd fe
+    cd freshwash-frontend
     npm install
     create .env example
         # API URL
@@ -17,7 +17,7 @@
 
 ## 🛢 Backend Setup
 
-    cd be
+    cd freshwash-backend
     npm install
     create .env example
         PORT=3000
