@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+freshwash-backend/.env
+freshwash-frontend/.env
+.env
 
 # Editor directories and files
 .vscode/*
